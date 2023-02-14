@@ -1,0 +1,14 @@
+---
+title: "Sydney"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me: 
+
+* I am PhD student in Animal Science. 
+* I work with dairy cattle. 
+* I have a pet dog named Cocoa. 

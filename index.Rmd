@@ -1,0 +1,16 @@
+---
+title: "Our website"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Created by: 
+
+* **Sydney Jewell** (https://github.com/sejewell) 
+* **David Dayan** (https://github.com/daviddayan720)
+
+![A Valentine's cow!](https://viterbi-web.usc.edu/~krupske/itp301/lab_04/img/cow2.jpeg)
