@@ -1,0 +1,12 @@
+---
+title: "David Dayan"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Information about David Dayan 
+* I am a senior in CALS studying Animal Science and Infectious Disease Biology. I am very interested in wildlife health and One Health and I hope to have a career in research in these fields!
+* My favorite animal is either a bobcat or an Amur tiger. I prefer domestic dogs to domestic cats, my favorite animals are generally wild cats (although I do really like wild canids as well).
+* I am from Westchester, NY. My hometown is smaller than Cornell's campus in both physical size and population. 
