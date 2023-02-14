@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Sydney"
+      href: sydney.html
+    - text: "David Dayan"
+      href: david.html  
